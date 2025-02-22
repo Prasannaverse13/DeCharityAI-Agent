@@ -105,13 +105,3 @@ A cutting-edge DeFi charity platform leveraging Sonic blockchain technology for 
     ├── allora.ts         # Allora types and utilities
     └── schema.ts         # Type definitions
 ```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
-
-## License
-
-MIT License - see LICENSE file for details
